@@ -20,7 +20,7 @@ public class Question_6 {
             n = n/10;
             
         }
-        System.out.print("Reversed number is : "+rev);
+        System.out.print("The reverse of" + num +" is : " +rev);
         sc.close();
 
     }
