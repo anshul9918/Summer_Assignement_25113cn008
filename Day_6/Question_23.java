@@ -20,7 +20,7 @@ public class Question_23 {
             n=n/2;
         }
         System.out.println(count);
-        
+        sc.close();
 
 
     }

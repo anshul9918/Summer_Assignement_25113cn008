@@ -29,7 +29,7 @@ public class Question_9 {
         else{
             System.out.println("Prime");
         }
-
+        sc.close();
     }
     
 }
